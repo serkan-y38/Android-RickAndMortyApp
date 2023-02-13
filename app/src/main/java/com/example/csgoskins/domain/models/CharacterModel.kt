@@ -1,6 +1,9 @@
 package com.example.csgoskins.domain.models
+import android.os.Parcelable
 import com.example.csgoskins.data.dto.Result
+import kotlinx.android.parcel.Parcelize
 
+@Parcelize
 data class CharacterModel(
     val created: String,
     val episode: List<String>,
@@ -12,7 +15,7 @@ data class CharacterModel(
     val status: String,
     val type: String,
     val url: String
-)
+): Parcelable
 
 fun Result.toDomain() = CharacterModel(
     created = created,
