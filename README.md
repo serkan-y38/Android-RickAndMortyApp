@@ -1,6 +1,11 @@
 # Kotlin-RickAndMorty
 
 * kotlin
+* Android
+* Clean architecture
+* Mvvm
+* Retrofit
+* Dagger2
 
 https://user-images.githubusercontent.com/96957200/218522248-70a8eae3-d765-47f0-9ec7-7b08c9be029d.mp4
 
