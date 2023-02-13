@@ -1,5 +1,7 @@
 # Kotlin-RickAndMorty
 
+* kotlin
+
 https://user-images.githubusercontent.com/96957200/218522248-70a8eae3-d765-47f0-9ec7-7b08c9be029d.mp4
 
 ![Screenshot_20230213-195323](https://user-images.githubusercontent.com/96957200/218522301-6585546f-11aa-4dc3-867d-6ee6fde5ccf2.png)
